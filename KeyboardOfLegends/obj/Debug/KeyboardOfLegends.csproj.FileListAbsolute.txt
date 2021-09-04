@@ -1,0 +1,10 @@
+C:\Users\simon\Documents\Visual Studio 2017\Projects\KeyboardOfLegends\KeyboardOfLegends\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\simon\Documents\Visual Studio 2017\Projects\KeyboardOfLegends\KeyboardOfLegends\bin\Debug\WindowsFormsApp1.exe
+C:\Users\simon\Documents\Visual Studio 2017\Projects\KeyboardOfLegends\KeyboardOfLegends\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\simon\Documents\Visual Studio 2017\Projects\KeyboardOfLegends\KeyboardOfLegends\obj\Debug\KeyboardOfLegends.csprojAssemblyReference.cache
+C:\Users\simon\Documents\Visual Studio 2017\Projects\KeyboardOfLegends\KeyboardOfLegends\obj\Debug\KeyboardOfLegends.MainForm.resources
+C:\Users\simon\Documents\Visual Studio 2017\Projects\KeyboardOfLegends\KeyboardOfLegends\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\simon\Documents\Visual Studio 2017\Projects\KeyboardOfLegends\KeyboardOfLegends\obj\Debug\KeyboardOfLegends.csproj.GenerateResource.cache
+C:\Users\simon\Documents\Visual Studio 2017\Projects\KeyboardOfLegends\KeyboardOfLegends\obj\Debug\KeyboardOfLegends.csproj.CoreCompileInputs.cache
+C:\Users\simon\Documents\Visual Studio 2017\Projects\KeyboardOfLegends\KeyboardOfLegends\obj\Debug\WindowsFormsApp1.exe
+C:\Users\simon\Documents\Visual Studio 2017\Projects\KeyboardOfLegends\KeyboardOfLegends\obj\Debug\WindowsFormsApp1.pdb
